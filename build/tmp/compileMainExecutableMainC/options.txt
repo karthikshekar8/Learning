@@ -1,0 +1,12 @@
+-x
+c
+-c
+-I
+/home/ec2-user/my-project/src/main/headers
+-I
+/usr/lib/gcc/x86_64-redhat-linux/8/include
+-I
+/usr/local/include
+-I
+/usr/include
+-m64

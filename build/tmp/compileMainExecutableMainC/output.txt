@@ -1,0 +1,6 @@
+See file:///home/ec2-user/my-project/build/tmp/compileMainExecutableMainC/output.txt for all output for compileMainExecutableMainC.
+compiling greeting.h successful.
+
+compiling main.c successful.
+
+Finished compileMainExecutableMainC, see full log file:///home/ec2-user/my-project/build/tmp/compileMainExecutableMainC/output.txt.

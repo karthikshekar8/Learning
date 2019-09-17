@@ -1,0 +1,4 @@
+See file:///home/ec2-user/my-project/build/tmp/linkMainExecutable/output.txt for all output for linkMainExecutable.
+linking main successful.
+
+Finished linkMainExecutable, see full log file:///home/ec2-user/my-project/build/tmp/linkMainExecutable/output.txt.
